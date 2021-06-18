@@ -1,3 +1,4 @@
+# type: ignore
 """
 @asynccontextmanager code, copied from Python 3.7's contextlib.
 For usage in Python 3.6.
